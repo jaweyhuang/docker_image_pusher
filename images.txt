@@ -6,3 +6,4 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 opensnail/snail-job
 valkey/valkey
+valkey/valkey:7.2.5

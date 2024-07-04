@@ -7,3 +7,4 @@
 opensnail/snail-job
 valkey/valkey
 corentinth/it-tools
+xuxueli/xxl-job-admin

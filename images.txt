@@ -4,7 +4,6 @@
 # xhofe/alist:latest
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
-opensnail/snail-job
-valkey/valkey
+
 corentinth/it-tools
 xuxueli/xxl-job-admin:2.4.1

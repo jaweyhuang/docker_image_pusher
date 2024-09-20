@@ -8,3 +8,5 @@
 corentinth/it-tools
 xuxueli/xxl-job-admin:2.4.1
 docker.elastic.co/beats/metricbeat:7.17.23
+
+ghcr.io/open-webui/open-webui:main
